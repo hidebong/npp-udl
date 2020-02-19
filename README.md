@@ -1,7 +1,8 @@
 # npp-udl
 User Defined Languages for Notepad++
 
-To hilight syntax for TeraTerm
+To hilight syntax for Tera Term Macro.
+
 Here is the Notepad++ UDL files for:
 * Tera Term Language (TTL) : Macro for Tera Term
 
