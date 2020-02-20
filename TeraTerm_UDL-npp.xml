@@ -30,7 +30,7 @@
             <Keywords name="Keywords4">basename&#x000D;&#x000A;dirname&#x000D;&#x000A;fileclose&#x000D;&#x000A;fileconcat&#x000D;&#x000A;filecopy&#x000D;&#x000A;filecreate&#x000D;&#x000A;filedelete&#x000D;&#x000A;filelock&#x000D;&#x000A;filemarkptr&#x000D;&#x000A;fileopen&#x000D;&#x000A;filereadln&#x000D;&#x000A;fileread&#x000D;&#x000A;filerename&#x000D;&#x000A;filesearch&#x000D;&#x000A;fileseek&#x000D;&#x000A;fileseekback&#x000D;&#x000A;filestat&#x000D;&#x000A;filestrseek&#x000D;&#x000A;filestrseek2&#x000D;&#x000A;filetruncate&#x000D;&#x000A;fileunlock&#x000D;&#x000A;filewrite&#x000D;&#x000A;filewriteln&#x000D;&#x000A;findfirst&#x000D;&#x000A;findnext&#x000D;&#x000A;findclose&#x000D;&#x000A;foldercreate&#x000D;&#x000A;folderdelete&#x000D;&#x000A;foldersearch&#x000D;&#x000A;getdir&#x000D;&#x000A;getfileattr&#x000D;&#x000A;makepath&#x000D;&#x000A;setdir&#x000D;&#x000A;setfileattr</Keywords>
             <Keywords name="Keywords5">delpassword&#x000D;&#x000A;getpassword&#x000D;&#x000A;ispassword&#x000D;&#x000A;passwordbox&#x000D;&#x000A;setpassword</Keywords>
             <Keywords name="Keywords6">beep&#x000D;&#x000A;bringupbox&#x000D;&#x000A;checksum8&#x000D;&#x000A;checksum8file&#x000D;&#x000A;checksum16&#x000D;&#x000A;checksum16file&#x000D;&#x000A;checksum32&#x000D;&#x000A;checksum32file&#x000D;&#x000A;closesbox&#x000D;&#x000A;clipb2var&#x000D;&#x000A;crc16&#x000D;&#x000A;crc16file&#x000D;&#x000A;crc32&#x000D;&#x000A;crc32file&#x000D;&#x000A;exec&#x000D;&#x000A;dirnamebox&#x000D;&#x000A;filenamebox&#x000D;&#x000A;getdate&#x000D;&#x000A;getenv&#x000D;&#x000A;getipv4addr&#x000D;&#x000A;getipv6addr&#x000D;&#x000A;getspecialfolder&#x000D;&#x000A;gettime&#x000D;&#x000A;getttdir&#x000D;&#x000A;getver&#x000D;&#x000A;ifdefined&#x000D;&#x000A;inputbox&#x000D;&#x000A;intdim&#x000D;&#x000A;listbox&#x000D;&#x000A;messagebox&#x000D;&#x000A;random&#x000D;&#x000A;rotateleft&#x000D;&#x000A;rotateright&#x000D;&#x000A;setdate&#x000D;&#x000A;setdlgpos&#x000D;&#x000A;setenv&#x000D;&#x000A;setexitcode&#x000D;&#x000A;settime&#x000D;&#x000A;show&#x000D;&#x000A;statusbox&#x000D;&#x000A;strdim&#x000D;&#x000A;uptime&#x000D;&#x000A;var2clipb&#x000D;&#x000A;yesnobox</Keywords>
-            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords7">groupmatchstr1&#x000D;&#x000A;groupmatchstr2&#x000D;&#x000A;groupmatchstr3&#x000D;&#x000A;groupmatchstr4&#x000D;&#x000A;groupmatchstr5&#x000D;&#x000A;groupmatchstr6&#x000D;&#x000A;groupmatchstr7&#x000D;&#x000A;groupmatchstr8&#x000D;&#x000A;groupmatchstr9&#x000D;&#x000A;param1&#x000D;&#x000A;param2&#x000D;&#x000A;param3&#x000D;&#x000A;param4&#x000D;&#x000A;param5&#x000D;&#x000A;param6&#x000D;&#x000A;param7&#x000D;&#x000A;param8&#x000D;&#x000A;param9&#x000D;&#x000A;params&#x000D;&#x000A;paramcnt&#x000D;&#x000A;inputstr&#x000D;&#x000A;matchstr&#x000D;&#x000A;result&#x000D;&#x000A;timeout&#x000D;&#x000A;mtimeout</Keywords>
             <Keywords name="Keywords8">:</Keywords>
             <Keywords name="Delimiters">00&apos; 01 02&apos; 03&quot; 04 05&quot; 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
@@ -40,14 +40,14 @@
             <WordsStyle name="LINE COMMENTS" fgColor="008000" bgColor="FFFFFF" fontName="" fontStyle="2" nesting="0" />
             <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS1" fgColor="0080FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
-            <WordsStyle name="KEYWORDS2" fgColor="408080" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="800000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS3" fgColor="800000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS4" fgColor="800000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS5" fgColor="800000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS6" fgColor="800000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="FF8080" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS8" fgColor="408080" bgColor="FFFF80" fontName="" fontStyle="0" nesting="0" />
-            <WordsStyle name="OPERATORS" fgColor="FF80C0" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="FF0080" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
             <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
